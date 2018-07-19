@@ -27,7 +27,7 @@ let users = [
 
 
 
-
 // Stretch A: Remove the existing buttons, and add a "random" button that randomizes which profile is shown.
-// Stretch B: Programmatically add a list of names to the screen, and have each one so that when you click on it, that person's profile shows up.
-// Stretch C: Instead of having buttons that control the flow, just programmatically add all the user cards to the screen. You'll want to delete the buttons, (and you'll want to add the "flex-wrap: wrap;" property to the main container in the css.)
+// Stretch B: Add a form that lets you add a new user to the users array!
+// Stretch C: Programmatically add a list of names to the screen, and have each one so that when you click on it, that person's profile shows up.
+// Stretch D: Instead of having buttons that control the flow, just programmatically add all the user cards to the screen. You'll want to delete the buttons, (and you'll want to add the "flex-wrap: wrap;" property to the main container in the css.)
